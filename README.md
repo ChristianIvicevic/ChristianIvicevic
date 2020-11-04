@@ -8,9 +8,9 @@ Nowadays I consult and work in cross-functional agile teams to support our custo
 
 ### Quick Facts
 
-- 🔭 I’m currently working on the digital transformation of a telecommunications company.
-- 🌱 I’m currently learning the basics of AWS.
-- 👯 I’m looking to collaborate on the Typescript compiler.
+- 🔭 I'm currently working on the digital transformation of a telecommunications company.
+- 🌱 I'm currently learning the basics of AWS.
+- 👯 I'm looking to collaborate on the Typescript compiler.
 - 💬 Ask me about Typescript, React or Mathematics.
 - 📫 How to reach me: via the mail address linked on my profile page.
 - ⚡ Fun fact: the 28th edition of the Duden introduced the word "nice" to the German language.

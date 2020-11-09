@@ -26,6 +26,7 @@ Nowadays I consult and work in cross-functional agile teams to support our custo
 <a href="#"><img align="left" alt="Redux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /></a>
 <a href="#"><img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></a>
 <a href="#"><img align="left" alt="Storybook" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" /></a>
+<a href="#"><img align="left" alt="Cypress" width="32px" src="https://www.cypress.io/icons/icon-48x48.png" /></a>
 <a href="#"><img align="left" alt="Next.js" width="32px" src="https://nextjs.org/static/favicon/favicon-32x32.png" /></a>
 <a href="#"><img align="left" alt="Electron" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" /></a>
 <a href="#"><img align="left" alt="eslint" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" /></a>

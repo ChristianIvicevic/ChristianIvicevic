@@ -8,7 +8,7 @@ Nowadays I consult and work in cross-functional agile teams to support our custo
 
 ### Quick Facts
 
-- 🔭 I'm currently supporting to transform a department at a telecommunications company using modern technologies running on AWS.
+- 🔭 I'm currently supporting our customer with the migration to AWS using modern technologies.
 - 🌱 I'm currently learning Rust and refreshing my C++ skills.
 - 👯 I'm looking to collaborate on the Typescript compiler.
 - 💬 Ask me about Typescript, React or Mathematics.

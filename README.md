@@ -9,7 +9,7 @@ Nowadays I consult and work in cross-functional agile teams to support our custo
 ### Quick Facts
 
 - 🔭 I'm currently supporting our customer with the migration to AWS using modern technologies.
-- 🌱 I'm currently learning Rust and refreshing my C++ skills.
+- 🌱 I'm currently learning Rust in combination with Vulkan.
 - 👯 I'm looking to collaborate on the Typescript compiler.
 - 💬 Ask me about Typescript, React or Mathematics.
 - 📫 How to reach me: via the mail address linked on my profile page.
@@ -17,7 +17,7 @@ Nowadays I consult and work in cross-functional agile teams to support our custo
 
 ### Languages and Tools
 
-This is a list of programming languages, tools and services that I am familiar with and use at work as well for pet projects in my spare time:
+This is a list of programming languages, tools and services that I am familiar with and use at work as well as for pet projects in my spare time:
 
 <table>
     <tr>
@@ -60,6 +60,7 @@ This is a list of programming languages, tools and services that I am familiar w
         <td align="center"><a href="https://styled-components.com/"><img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" height="60px" alt=""/><br /><sub><b>Styled<br />Components</b></sub></a></td>
         <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="60px" alt=""/><br /><sub><b>Typescript</b></sub></a></td>
         <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="60px" alt=""/><br /><sub><b>VS Code</b></sub></a></td>
+        <td align="center"><a href="https://www.khronos.org/vulkan/"><img src="https://www.khronos.org/assets/images/api_logos/vulkan.svg" height="40px" alt=""/><br /><sub><b>Vulkan</b></sub></a></td>
         <td align="center"><a href="https://webpack.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="60px" alt=""/><br /><sub><b>Webpack</b></sub></a></td>
         <td align="center"><a href="https://yarnpkg.com/"><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" height="60px" alt=""/><br /><sub><b>Yarn</b></sub></a></td>
     </tr>

@@ -40,7 +40,7 @@ This is a list of programming languages, tools and services that I am familiar w
         <td align="center"><a href="https://jestjs.io/"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="60px" alt=""/><br /><sub><b>Jest</b></sub></a></td>
         <td align="center"><a href="https://kotlinlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" height="60px" alt=""/><br /><sub><b>Kotlin</b></sub></a></td>
         <td align="center"><a href="https://kubernetes.io/"><img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" height="60px" alt=""/><br /><sub><b>Kubernetes</b></sub></a></td>
-        <td align="center"><a href="https://nestjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" height="60px" alt=""/><br /><sub><b>Nest.js</b></sub></a></td>
+        <td align="center"><a href="https://nestjs.com/"><img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" height="60px" alt=""/><br /><sub><b>Nest.js</b></sub></a></td>
     </tr>
     <tr>
         <td align="center"><a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="60px" alt=""/><br /><sub><b>Next.js</b></sub></a></td>

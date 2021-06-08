@@ -25,7 +25,7 @@ This is a list of programming languages, tools and services that I am familiar w
         <td align="center"><a href="https://en.cppreference.com/w/"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="60px" alt=""/><br /><sub><b>C++</b></sub></a></td>
         <td align="center"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/240px-C_Sharp_wordmark.svg.png" height="60px" alt=""/><br /><sub><b>C#</b></sub></a></td>
         <td align="center"><a href="https://www.jetbrains.com/clion/"><img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" height="60px" alt=""/><br /><sub><b>CLion</b></sub></a></td>
-        <td align="center"><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" height="60px" alt=""/><br /><sub><b>CSS3</b></sub></a></td>
+        <td align="center"><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60px" alt=""/><br /><sub><b>CSS3</b></sub></a></td>
         <td align="center"><a href="https://www.cypress.io/"><img src="https://avatars.githubusercontent.com/u/8908513?s=400&v=4" height="60px" alt=""/><br /><sub><b>Cypress</b></sub></a></td>
         <td align="center"><a href="https://www.docker.com/"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="60px" alt=""/><br /><sub><b>Docker</b></sub></a></td>
         <td align="center"><a href="https://www.electronjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/electron-1.svg" height="60px" alt=""/><br /><sub><b>Electron</b></sub></a></td>

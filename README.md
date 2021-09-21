@@ -9,7 +9,7 @@ Nowadays I consult and work in cross-functional agile teams to support our custo
 ### Quick Facts
 
 - 🔭 I'm currently supporting our customer with the migration to AWS using modern technologies.
-- 🌱 I'm currently learning Rust in combination with Vulkan.
+- 🌱 I'm currently learning about computer graphics programming with Rust.
 - 👯 I'm looking to collaborate on the Typescript compiler.
 - 💬 Ask me about Typescript, React or Mathematics.
 - 📫 How to reach me: via the mail address linked on my profile page.
@@ -64,6 +64,7 @@ This is a list of programming languages, tools and services that I am familiar w
         <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="60px" alt=""/><br /><sub><b>VS Code</b></sub></a></td>
         <td align="center"><a href="https://www.khronos.org/vulkan/"><img src="https://www.khronos.org/assets/images/api_logos/vulkan.svg" height="40px" alt=""/><br /><sub><b>Vulkan</b></sub></a></td>
         <td align="center"><a href="https://webpack.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="60px" alt=""/><br /><sub><b>Webpack</b></sub></a></td>
+        <td align="center"><a href="https://wgpu.rs/"><img src="https://github.com/gfx-rs/wgpu/blob/08ff76f150f6bb9fb75be45947adf0cbfe13080c/logo.png" height="60px" alt=""/><br /><sub><b>wgpu</b></sub></a></td>
         <td align="center"><a href="https://yarnpkg.com/"><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" height="60px" alt=""/><br /><sub><b>Yarn</b></sub></a></td>
     </tr>
 </table>

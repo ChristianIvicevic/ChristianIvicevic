@@ -8,9 +8,9 @@ Nowadays I consult and work in cross-functional agile teams to support our custo
 
 ### Quick Facts
 
-- 🔭 I'm currently supporting our customer with the migration to AWS using modern technologies.
+- 🔭 I'm currently supporting our customer to develop a tool for improved supply chain transparency in the automotive industry.
 - 🌱 I'm currently learning about computer graphics programming with Rust.
-- 👯 I'm looking to collaborate on the Typescript compiler.
+- 👯 I'm looking to collaborate on open-source projects.
 - 💬 Ask me about Typescript, React or Mathematics.
 - 📫 How to reach me: via the mail address linked on my profile page.
 - ⚡ Fun fact: the 28th edition of the Duden introduced the word "nice" to the German language.
@@ -34,7 +34,7 @@ This is a list of programming languages, tools and services that I am familiar w
         <td align="center"><a href="https://eslint.org/"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="60px" alt=""/><br /><sub><b>eslint</b></sub></a></td>
         <td align="center"><a href="https://git-scm.com/"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="60px" alt=""/><br /><sub><b>git</b></sub></a></td>
         <td align="center"><a href="https://graphql.org/"><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" height="60px" alt=""/><br /><sub><b>GraphQL</b></sub></a></td>
-        <td align="center"><a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" height="60px" alt=""/><br /><sub><b>HTML5</b></sub></a></td>
+        <td align="center"><a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" height="60px" alt=""/><br /><sub><b>HTML5</b></sub></a></td>
         <td align="center"><a href="https://www.jetbrains.com/idea/"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" height="60px" alt=""/><br /><sub><b>IntelliJ</b></sub></a></td>
         <td align="center"><a href="https://www.java.com/en/"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="60px" alt=""/><br /><sub><b>Java</b></sub></a></td>
         <td align="center"><a href="https://jestjs.io/"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="60px" alt=""/><br /><sub><b>Jest</b></sub></a></td>
@@ -58,11 +58,13 @@ This is a list of programming languages, tools and services that I am familiar w
         <td align="center"><a href="https://spring.io/projects/spring-boot"><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="60px" alt=""/><br /><sub><b>Spring</b></sub></a></td>
         <td align="center"><a href="https://storybook.js.org/"><img src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm.png" height="60px" alt=""/><br /><sub><b>Storybook</b></sub></a></td>
         <td align="center"><a href="https://styled-components.com/"><img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" height="60px" alt=""/><br /><sub><b>Styled<br />Components</b></sub></a></td>
-        <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="60px" alt=""/><br /><sub><b>Typescript</b></sub></a></td>
+        <td align="center"><a href="https://tailwindcss.com/"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="60px" alt=""/><br /><sub><b>Tailwind CSS</b></sub></a></td>
     </tr>
     <tr>
+        <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="60px" alt=""/><br /><sub><b>Typescript</b></sub></a></td>
         <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="60px" alt=""/><br /><sub><b>VS Code</b></sub></a></td>
         <td align="center"><a href="https://www.khronos.org/vulkan/"><img src="https://www.khronos.org/assets/images/api_logos/vulkan.svg" height="40px" alt=""/><br /><sub><b>Vulkan</b></sub></a></td>
+        <td align="center"><a href="https://webassembly.org/"><img src="https://cdn.worldvectorlogo.com/logos/webassembly.svg" height="60px" alt=""/><br /><sub><b>WebAssembly</b></sub></a></td>
         <td align="center"><a href="https://webpack.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" height="60px" alt=""/><br /><sub><b>Webpack</b></sub></a></td>
         <td align="center"><a href="https://wgpu.rs/"><img src="https://github.com/gfx-rs/wgpu/blob/08ff76f150f6bb9fb75be45947adf0cbfe13080c/logo.png" height="60px" alt=""/><br /><sub><b>wgpu</b></sub></a></td>
         <td align="center"><a href="https://yarnpkg.com/"><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" height="60px" alt=""/><br /><sub><b>Yarn</b></sub></a></td>

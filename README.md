@@ -19,44 +19,345 @@ Nowadays I consult and work in cross-functional agile teams to support our custo
 
 In the past 20 years I have been learning various technologies, including different languages, frameworks and tools. Therefore I am very confident in picking up technology that is heretofore unknown to me and getting familiar with it in a short amount of time.
 
-This is a list of programming languages, tools and services that I am actively (past 12 months) using at work and/or for personal side projects in my spare time:
+This is a list of programming languages, tools and services that I have been using **recently** at work and/or for personal side projects in my spare time:
 
 <table>
-    <tr>
-        <td align="center"><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60px" alt=""/><br /><sub><b>CSS3</b></sub></a></td>
-        <td align="center"><a href="https://www.cypress.io/"><img src="https://avatars.githubusercontent.com/u/8908513?s=400&v=4" height="60px" alt=""/><br /><sub><b>Cypress</b></sub></a></td>
-        <td align="center"><a href="https://www.docker.com/"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="60px" alt=""/><br /><sub><b>Docker</b></sub></a></td>
-        <td align="center"><a href="https://eslint.org/"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" height="60px" alt=""/><br /><sub><b>eslint</b></sub></a></td>
-        <td align="center"><a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" height="60px" alt=""/><br /><sub><b>HTML5</b></sub></a></td>
-        <td align="center"><a href="https://www.jetbrains.com/idea/"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" height="60px" alt=""/><br /><sub><b>IntelliJ</b></sub></a></td>
-        <td align="center"><a href="https://www.java.com/en/"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="60px" alt=""/><br /><sub><b>Java</b></sub></a></td>
-        <td align="center"><a href="https://jestjs.io/"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="60px" alt=""/><br /><sub><b>Jest</b></sub></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://nestjs.com/"><img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" height="60px" alt=""/><br /><sub><b>Nest.js</b></sub></a></td>
-        <td align="center"><a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="60px" alt=""/><br /><sub><b>Next.js</b></sub></a></td>
-        <td align="center"><a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="60px" alt=""/><br /><sub><b>Node.js</b></sub></a></td>
-        <td align="center"><a href="https://www.npmjs.com/"><img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" height="60px" alt=""/><br /><sub><b>npm</b></sub></a></td>
-        <td align="center"><a href="https://nx.dev/"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="60px" alt=""/><br /><sub><b>nx</b></sub></a></td>
-        <td align="center"><a href="https://planetscale.com/"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" height="60px" alt=""/><br /><sub><b>PlanetScale</b></sub></a></td>
-        <td align="center"><a href="https://prettier.io/"><img src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" height="60px" alt=""/><br /><sub><b>Prettier</b></sub></a></td>
-        <td align="center"><a href="https://railway.app/"><img src="https://avatars.githubusercontent.com/u/66716858?s=200&v=4" height="60px" alt=""/><br /><sub><b>Railway</b></sub></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="60px" alt=""/><br /><sub><b>React</b></sub></a></td>
-        <td align="center"><a href="https://redux.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="60px" alt=""/><br /><sub><b>Redux</b></sub></a></td>
-        <td align="center"><a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/logos/rust-logo-128x128.png" height="60px" alt=""/><br /><sub><b>Rust</b></sub></a></td>
-        <td align="center"><a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="60px" alt=""/><br /><sub><b>SCSS</b></sub></a></td>
-        <td align="center"><a href="https://spring.io/projects/spring-boot"><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="60px" alt=""/><br /><sub><b>Spring</b></sub></a></td>
-        <td align="center"><a href="https://storybook.js.org/"><img src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm.png" height="60px" alt=""/><br /><sub><b>Storybook</b></sub></a></td>
-        <td align="center"><a href="https://tailwindcss.com/"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="60px" alt=""/><br /><sub><b>Tailwind CSS</b></sub></a></td>
-        <td align="center"><a href="https://trpc.io/"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" height="60px" alt=""/><br /><sub><b>tRPC</b></sub></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="60px" alt=""/><br /><sub><b>Typescript</b></sub></a></td>
-        <td align="center"><a href="https://vercel.com/"><img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" height="60px" alt=""/><br /><sub><b>Vercel</b></sub></a></td>
-        <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="60px" alt=""/><br /><sub><b>VS Code</b></sub></a></td>
-        <td align="center"><a href="https://webassembly.org/"><img src="https://cdn.worldvectorlogo.com/logos/webassembly.svg" height="60px" alt=""/><br /><sub><b>WebAssembly</b></sub></a></td>
-        <td align="center"><a href="https://wgpu.rs/"><img src="https://github.com/gfx-rs/wgpu/blob/08ff76f150f6bb9fb75be45947adf0cbfe13080c/logo.png" height="60px" alt=""/><br /><sub><b>wgpu</b></sub></a></td>
-    </tr>
+  <tr>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/cypress-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/cypress.svg" alt="Cypress" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Cypress</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/docker-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/docker.svg" alt="Docker" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Docker</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/eslint-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/eslint.svg" alt="ESLint" width="60px" />
+      </picture>
+      <br />
+      <sub><b>ESLint</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/headlessui-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/headlessui.svg" alt="Headless UI" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Headless UI</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/intellijidea-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/intellijidea.svg" alt="IntelliJ" width="60px" />
+      </picture>
+      <br />
+      <sub><b>IntelliJ</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/jest-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/jest.svg" alt="Jest" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Jest</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/nestjs-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/nestjs.svg" alt="Nest.js" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Nest.js</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/nextdotjs-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/nextdotjs.svg" alt="Next.js" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/nodedotjs-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/nodedotjs.svg" alt="Node.js" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/npm-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/npm.svg" alt="NPM" width="60px" />
+      </picture>
+      <br />
+      <sub><b>NPM</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/nx-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/nx.svg" alt="NX" width="60px" />
+      </picture>
+      <br />
+      <sub><b>NX</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/planetscale-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/planetscale.svg" alt="Planetscale" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Planetscale</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/playwright-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/playwright.svg" alt="Playwright" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Playwright</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/prettier-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/prettier.svg" alt="Prettier" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Prettier</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/prisma-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/prisma.svg" alt="Prisma" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Prisma</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/railway-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/railway.svg" alt="Railway" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Railway</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/react-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/react.svg" alt="React" width="60px" />
+      </picture>
+      <br />
+      <sub><b>React</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/redis-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/redis.svg" alt="Redis" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Redis</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/redux-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/redux.svg" alt="Redux" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Redux</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/rust-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/rust.svg" alt="Rust" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Rust</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/spring-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/spring.svg" alt="Spring" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Spring</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/springboot-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/springboot.svg" alt="Spring Boot" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/storybook-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/storybook.svg" alt="Storybook" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Storybook</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/tailwindcss-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/tailwindcss.svg" alt="Tailwind CSS" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/trpc-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/trpc.svg" alt="tRPC" width="60px" />
+      </picture>
+      <br />
+      <sub><b>tRPC</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/turborepo-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/turborepo.svg" alt="Turborepo" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Turborepo</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/typescript-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/typescript.svg" alt="TypeScript" width="60px" />
+      </picture>
+      <br />
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/vercel-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/vercel.svg" alt="Vercel" width="60px" />
+      </picture>
+      <br />
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/visualstudiocode-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/visualstudiocode.svg" alt="VS Code" width="60px" />
+      </picture>
+      <br />
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td style="text-align: center">
+      <picture>
+        <source
+          srcset="images/webassembly-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="images/webassembly.svg" alt="WebAssembly" width="60px" />
+      </picture>
+      <br />
+      <sub><b>WebAssembly</b></sub>
+    </td>
+  </tr>
 </table>

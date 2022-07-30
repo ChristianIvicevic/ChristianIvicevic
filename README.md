@@ -23,7 +23,7 @@ This is a list of programming languages, tools and services that I have been usi
 
 <table>
   <tr>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/cypress-dark.svg"
@@ -34,7 +34,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Cypress</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/docker-dark.svg"
@@ -45,7 +45,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Docker</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/eslint-dark.svg"
@@ -56,7 +56,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>ESLint</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/headlessui-dark.svg"
@@ -67,7 +67,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Headless UI</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/intellijidea-dark.svg"
@@ -78,7 +78,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>IntelliJ</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/jest-dark.svg"
@@ -89,7 +89,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Jest</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/nestjs-dark.svg"
@@ -100,7 +100,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Nest.js</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/nextdotjs-dark.svg"
@@ -113,7 +113,7 @@ This is a list of programming languages, tools and services that I have been usi
     </td>
   </tr>
   <tr>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/nodedotjs-dark.svg"
@@ -124,7 +124,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Node.js</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/npm-dark.svg"
@@ -135,7 +135,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>NPM</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/nx-dark.svg"
@@ -146,7 +146,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>NX</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/planetscale-dark.svg"
@@ -157,7 +157,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Planetscale</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/playwright-dark.svg"
@@ -168,7 +168,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Playwright</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/prettier-dark.svg"
@@ -179,7 +179,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Prettier</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/prisma-dark.svg"
@@ -190,7 +190,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Prisma</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/railway-dark.svg"
@@ -203,7 +203,7 @@ This is a list of programming languages, tools and services that I have been usi
     </td>
   </tr>
   <tr>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/react-dark.svg"
@@ -214,7 +214,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>React</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/redis-dark.svg"
@@ -225,7 +225,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Redis</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/redux-dark.svg"
@@ -236,7 +236,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Redux</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/rust-dark.svg"
@@ -247,7 +247,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Rust</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/spring-dark.svg"
@@ -258,7 +258,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Spring</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/springboot-dark.svg"
@@ -269,7 +269,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Spring Boot</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/storybook-dark.svg"
@@ -280,7 +280,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Storybook</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/tailwindcss-dark.svg"
@@ -293,7 +293,7 @@ This is a list of programming languages, tools and services that I have been usi
     </td>
   </tr>
   <tr>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/trpc-dark.svg"
@@ -304,7 +304,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>tRPC</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/turborepo-dark.svg"
@@ -315,7 +315,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Turborepo</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/typescript-dark.svg"
@@ -326,7 +326,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>TypeScript</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/vercel-dark.svg"
@@ -337,7 +337,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>Vercel</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/visualstudiocode-dark.svg"
@@ -348,7 +348,7 @@ This is a list of programming languages, tools and services that I have been usi
       <br />
       <sub><b>VS Code</b></sub>
     </td>
-    <td style="text-align: center">
+    <td align="center">
       <picture>
         <source
           srcset="images/webassembly-dark.svg"

@@ -1,15 +1,13 @@
 ## Hi there, I'm Christian! 👋
 
-I'm an IT consultant, software engineer and teacher working in Munich, Germany.
+I'm a software engineer and teacher working in Munich, Germany.
 
-Previously I have been studying Computer Science, Mathematics and Educational Psychology while working at the university as a teaching assistant and later as a high school teacher before pursuing a career in the IT.
-
-Nowadays I consult and work in cross-functional agile teams to support our customers.
+Previously I have been studying Computer Science, Mathematics and Educational Psychology while working at the university as a teaching assistant and later as a high school teacher before pursuing a career as a software engineer.
 
 ### Quick Facts
 
-- 🔭 I'm currently taking a long summer vacation and enjoying my offline time.
-- 🌱 One of my dreams is to visit Australia as part of a work-and-travel experience.
+- 🔭 I'm about to start a new job and work on tools that will delight developers across the world.
+- 🌱 One of my aspirations is to visit Australia as part of a work-and-travel experience.
 - 👯 I'm looking to collaborate on open-source projects.
 - 💬 Ask me anything about web development using any of the tools listed below.
 - 📫 How to reach me: via the mail address linked on my profile page.

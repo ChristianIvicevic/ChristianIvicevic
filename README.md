@@ -6,7 +6,7 @@ Previously I have been studying Computer Science, Mathematics and Educational Ps
 
 ### Quick Facts
 
-- 🔭 I'm about to start a new job and work on tools that will delight developers across the world.
+- 🔭 I'm working in the [WebStorm](https://www.jetbrains.com/webstorm/) product team at [JetBrains](https://www.jetbrains.com/).
 - 🌱 One of my aspirations is to visit Australia as part of a work-and-travel experience.
 - 👯 I'm looking to collaborate on open-source projects.
 - 💬 Ask me anything about web development using any of the tools listed below.

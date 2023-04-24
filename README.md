@@ -15,9 +15,7 @@ Previously I have been studying Computer Science, Mathematics and Educational Ps
 
 ### Languages and Tools
 
-In the past 20 years I have been learning various technologies, including different languages, frameworks and tools. Therefore I am very confident in picking up technology that is heretofore unknown to me and getting familiar with it in a short amount of time.
-
-This is a list of programming languages, tools and services that I have been using **recently** at work and/or for personal side projects in my spare time:
+In the past 20 years I have been learning various technologies, including different languages, frameworks and tools. This is a list of programming languages, tools and services that I have been using **recently** at work and/or for personal side projects in my spare time:
 
 <table>
   <tr>

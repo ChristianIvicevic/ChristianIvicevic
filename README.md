@@ -1,5 +1,5 @@
 ## Hi there, I'm Christian! 👋
 
-I used to be a software engineer and teacher working in Munich, Germany - currently, I'm on a sabbatical for a few months.
+I'm a software engineer based in Sydney, Australia, currently consulting on digital banking platforms at the Commonwealth Bank of Australia.
 
-Previously I have been studying Computer Science, Mathematics and Educational Psychology while working at the university as a teaching assistant and later as a high school teacher before pursuing a career as a software engineer.
+Previously, I taught high school mathematics and worked in academia while studying Computer Science, Mathematics, and Educational Psychology. After transitioning into software engineering, I took a sabbatical to travel and recalibrate. Now fully reengaged, I'm working on large-scale systems in high-stakes environments.
